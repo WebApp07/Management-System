@@ -1,3 +1,5 @@
+import Dashboard from "@/app/dashboard/page";
+
 export default function Home() {
-  return <main>Hello World 2025!</main>;
+  return <Dashboard />;
 }
